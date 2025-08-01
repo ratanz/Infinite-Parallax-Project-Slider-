@@ -8,7 +8,7 @@ export default function Home() {
           <a href="#">Glasswake</a>
         </div>
         <div className="nav-links">
-          <a href="#">Contact</a>
+          <a href="https://www.x.com/ratan7_">Contact</a>
         </div>
       </nav>
       <Slider />
